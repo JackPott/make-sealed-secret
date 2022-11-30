@@ -1,6 +1,6 @@
 # Make a Kubernetes Sealed Secret
 
-Simple bash script to automate creating a [Sealed Secret] https://github.com/bitnami-labs/sealed-secrets in Kubernetes. 
+Simple bash script to automate creating a [Sealed Secret](https://github.com/bitnami-labs/sealed-secrets) in Kubernetes. 
 
 ## How to use
 
